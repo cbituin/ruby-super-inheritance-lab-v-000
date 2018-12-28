@@ -12,32 +12,15 @@ class ChattyStudent < Student
       puts "Pick me!"
     
       super
-      puts "Pick me!"
-    
       super
-      puts "Pick me!"
-    
       super
-      puts "Pick me!"
-    
       super
-      puts "Pick me!"
-    
       super
-      puts "Pick me!"
-    
       super
-      puts "Pick me!"
-    
       super
-      puts "Pick me!"
-    
       super
-      puts "Pick me!"
-    
       super
-      puts "Pick me!"
-    
+      
     
     # counter = 0
     # until counter = 10
