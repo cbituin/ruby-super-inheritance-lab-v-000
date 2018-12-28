@@ -11,16 +11,7 @@ class ChattyStudent < Student
       super
       puts "Pick me!"
     
-      super
-      super
-      super
-      super
-      super
-      super
-      super
-      super
-      super
-      
+
     
     # counter = 0
     # until counter = 10
