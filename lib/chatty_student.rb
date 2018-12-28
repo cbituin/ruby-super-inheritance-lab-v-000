@@ -14,5 +14,6 @@ class ChattyStudent < Student
       puts "Pick me!"
       counter += 1 
     end
+  end
   
 end
